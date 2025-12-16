@@ -2,7 +2,9 @@
 
 ---
 
-**Integrantes:** * Gabriel Hernanz Rodríguez * Rodigo Yepes Rubio
+**Integrantes:** 
+* Gabriel Hernanz Rodríguez
+* Rodigo Yepes Rubio
 
 ## Descripción de la Solución
 Sistema de microservicios basado en Spring Boot y Spring Cloud para la gestión inteligente de Wakanda. La arquitectura implementa patrones de descubrimiento de servicios, balanceo de carga en el lado del cliente y tolerancia a fallos.
